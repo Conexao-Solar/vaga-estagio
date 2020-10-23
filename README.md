@@ -48,7 +48,7 @@ Estágio
 
 ## Como se candidatar
 
-Por favor envie um email para (claudio.g.crippa@gmail.com)[claudio.g.crippa@gmail.com] com o seu CV no assunto: Vaga Full Stack, ou por WhatssApp pelo telefone (48) 9 9981-3959
+Por favor envie um email para claudio@conexaosolar.com.br com o seu CV no assunto: Vaga Full Stack, ou por WhatssApp pelo telefone (48) 9 9981-3959
 
 #### Regime
 - Estágio
