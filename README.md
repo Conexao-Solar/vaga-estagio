@@ -33,8 +33,7 @@ Possuir infra estrutura para trabalho (nosso modelo de trabalho é home office),
 - conhecimentos GoLang
 - conhecimentos em JavaScript
 - conhecimentos em MongoDB
-- Completar o desafio neste [link](https://github.com/Conexao-Solar/challenge-user-crud)
-**Diferenciais:**
+- Completar o desafio neste [link](https://github.com/Conexao-Solar/challenge-user-crud) (será um diferencial)
 - ser pró ativo(a)
 - comunicativo(a)
 - curioso(a)
